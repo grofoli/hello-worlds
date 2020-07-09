@@ -1,5 +1,15 @@
 # README
 
+Serve with:
+* `rails server`
+
+Created with:
+* https://gorails.com/setup/osx/10.15-catalina#homebrew
+* `sudo gem install rails`
+* `brew install yarn`
+* `rails new hello-ruby`
+
+Generated readme:
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
