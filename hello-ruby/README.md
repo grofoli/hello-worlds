@@ -9,6 +9,10 @@ Created with:
 * `brew install yarn`
 * `rails new hello-ruby`
 
+Then created my own controller reachable over the route: http://localhost:3000/welcome/index
+* `rails generate controller Welcome index`
+* then changed the text to: Hello Viesure :-) 
+
 Generated readme:
 This README would normally document whatever steps are necessary to get the
 application up and running.
